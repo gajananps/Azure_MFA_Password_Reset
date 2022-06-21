@@ -1,0 +1,6 @@
+LOAD DATA INFILE 'C:/sql_query/IAM_User_Password.csv' 
+INTO TABLE azure_password 
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"' ESCAPED BY '\\'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
