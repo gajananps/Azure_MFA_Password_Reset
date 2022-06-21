@@ -7,4 +7,4 @@
 
 **Dashboard Credentials:** admin / admin
 
-**URL :** localhost:80/<FolderName>
+**URL :** localhost:80/&#60;FolderName&#62;
